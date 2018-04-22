@@ -1,0 +1,9 @@
+﻿Build started 2018-04-21 8:26:07 PM.
+     1>Project "C:\GameDev\Survival\SDL example\SDL example.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         SDL example.vcxproj -> C:\GameDev\Survival\Debug\SDL example.exe
+     1>Done Building Project "C:\GameDev\Survival\SDL example\SDL example.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06
